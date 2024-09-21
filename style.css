@@ -1,0 +1,19 @@
+*{
+
+}
+.template{
+   width: 40%;
+   height: auto;
+}
+
+.search-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+  }
+
+.event{
+    padding-left: 10%;
+}
